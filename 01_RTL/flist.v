@@ -1,0 +1,6 @@
+`include "../00_TESTBED/define.v"
+`include "./IOTDF.v"
+`include "./CRC.v"
+`include "./Gray_Bin.v"
+`include "./F_function.v"
+`include "./Sbox.v"

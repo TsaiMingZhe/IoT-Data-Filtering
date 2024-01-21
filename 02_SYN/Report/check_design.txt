@@ -1,0 +1,29 @@
+ 
+****************************************
+check_design summary:
+Version:     U-2022.12
+Date:        Tue Nov 21 05:15:32 2023
+****************************************
+
+                   Name                                            Total
+--------------------------------------------------------------------------------
+Inputs/Outputs                                                      8
+    Unconnected ports (LINT-28)                                     8
+
+Cells                                                               4
+    Cells do not drive (LINT-1)                                     4
+--------------------------------------------------------------------------------
+
+Warning: In design 'IOTDF', cell 'C1921' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C1924' does not drive any nets. (LINT-1)
+Warning: In design 'CRC', cell 'C553' does not drive any nets. (LINT-1)
+Warning: In design 'Gray_Bin', cell 'C962' does not drive any nets. (LINT-1)
+Warning: In design 'Key_generator', port 'i_mk[56]' is not connected to any nets. (LINT-28)
+Warning: In design 'Key_generator', port 'i_mk[48]' is not connected to any nets. (LINT-28)
+Warning: In design 'Key_generator', port 'i_mk[40]' is not connected to any nets. (LINT-28)
+Warning: In design 'Key_generator', port 'i_mk[32]' is not connected to any nets. (LINT-28)
+Warning: In design 'Key_generator', port 'i_mk[24]' is not connected to any nets. (LINT-28)
+Warning: In design 'Key_generator', port 'i_mk[16]' is not connected to any nets. (LINT-28)
+Warning: In design 'Key_generator', port 'i_mk[8]' is not connected to any nets. (LINT-28)
+Warning: In design 'Key_generator', port 'i_mk[0]' is not connected to any nets. (LINT-28)
+1
